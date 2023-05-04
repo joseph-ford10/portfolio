@@ -1,3 +1,44 @@
 html {
-  color: blue;
+  color: black;
+}
+
+body {
+  font-family: Courier, monospace;
+}
+
+.wrapper {
+ margin-right: 25%;
+ margin-left: 25%;
+}
+
+li {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.other-links {
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 30px;
+}
+
+.link {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.screenshot {
+  border: solid;
+  border-color: black;
+  border-width: 10px;
 }
